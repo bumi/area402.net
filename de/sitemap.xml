@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://area402.net/</loc>
+    <lastmod>2020-10-12T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://area402.net/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://area402.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://area402.net/blog/2020-10-12-hello-world/</loc>
+    <lastmod>2020-10-12T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://area402.net/blog/</loc>
+    <lastmod>2020-10-12T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://area402.net/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://area402.net/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://area402.net/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://area402.net/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://area402.net/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://area402.net/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://area402.net/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://area402.net/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://area402.net/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://area402.net/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://area402.net/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://area402.net/test-page/</loc>
+  </url>
+  
+</urlset>
