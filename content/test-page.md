@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 subtitle = ""
 title = "test page"
 
