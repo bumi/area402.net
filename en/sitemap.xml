@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://area402.net/en/</loc>
+    <loc>https://bumi.github.io/area402.net/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://area402.net/"
+                href="https://bumi.github.io/area402.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://area402.net/en/"
+                href="https://bumi.github.io/area402.net/en/"
                 />
   </url>
   
   <url>
-    <loc>https://area402.net/en/categories/</loc>
+    <loc>https://bumi.github.io/area402.net/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://area402.net/categories/"
+                href="https://bumi.github.io/area402.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://area402.net/en/categories/"
+                href="https://bumi.github.io/area402.net/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://area402.net/en/contact/</loc>
+    <loc>https://bumi.github.io/area402.net/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://area402.net/contact/"
+                href="https://bumi.github.io/area402.net/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://area402.net/en/contact/"
+                href="https://bumi.github.io/area402.net/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://area402.net/en/blog/</loc>
+    <loc>https://bumi.github.io/area402.net/en/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://area402.net/blog/"
+                href="https://bumi.github.io/area402.net/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://area402.net/en/blog/"
+                href="https://bumi.github.io/area402.net/en/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://area402.net/en/tags/</loc>
+    <loc>https://bumi.github.io/area402.net/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://area402.net/tags/"
+                href="https://bumi.github.io/area402.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://area402.net/en/tags/"
+                href="https://bumi.github.io/area402.net/en/tags/"
                 />
   </url>
   
