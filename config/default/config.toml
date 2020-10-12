@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://area402.net/"
+baseURL = "https://bumi.github.io/area402.net/"
 BasePath = '/'
 title = "area402.net"
 theme = "bigspring"
