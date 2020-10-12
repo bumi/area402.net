@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News on </title>
+    <title>Latest News on area402.net</title>
     <link>https://area402.net/blog/</link>
-    <description>Recent content in Latest News on </description>
+    <description>Recent content in Latest News on area402.net</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
     <lastBuildDate>Mon, 12 Oct 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://area402.net/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hallo Welt!</title>
-      <link>https://area402.net/blog/2020-10-12-hello-world.de/</link>
+      <link>https://area402.net/blog/2020-10-12-hello-world/</link>
       <pubDate>Mon, 12 Oct 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://area402.net/blog/2020-10-12-hello-world.de/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.
-Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this.
-Link I&amp;rsquo;m an inline-style link</description>
+      <guid>https://area402.net/blog/2020-10-12-hello-world/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
   </channel>
